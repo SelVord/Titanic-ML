@@ -89,12 +89,9 @@ pip install -r requirements.txt
 - sklearn Pipelines
 
 ### 4. Modeling
-Models tested:
-- Logistic Regression
-- Random Forest
-- Gradient Boosting
+- Building model
+- Model tuning
 
 ### 5. Evaluation
 - Accuracy
 - Cross-validation
-- Kaggle leaderboard score
