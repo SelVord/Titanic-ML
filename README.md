@@ -44,13 +44,13 @@ titanic-ml/
 │   ├── processed/
 │
 ├── notebooks/
-│   └── ML_Titanic.ipynb
+│   └── ML Titanic.ipynb
 │
 ├── models/
+│   └── model.joblib
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
